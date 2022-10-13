@@ -1,5 +1,4 @@
 ### Hi there! 
-- 👋 My name is Monika.
-- 👀 I’m interested in Data Science, Machine Learning, Data Analysis.
-- 🌱 I’m currently learning Python for Data Science, Tableau and improving my Excel skills (Pivot Tables, VBA, Solver).
+- Interested in Data Science & Analysis.
+- Currently learning Python for Data Science, PowerBi and improving my Excel skills.
 
